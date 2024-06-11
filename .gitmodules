@@ -1,0 +1,6 @@
+[submodule "api_medical_scheduler"]
+	path = api_medical_scheduler
+	url = https://github.com/SJanna/api_medical_scheduler
+[submodule "frontend_medical_scheduler"]
+	path = frontend_medical_scheduler
+	url = https://github.com/SJanna/frontend_medical_scheduler
